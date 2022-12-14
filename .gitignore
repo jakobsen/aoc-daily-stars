@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+.env
+cached_leaderboard.json
